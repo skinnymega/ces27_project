@@ -1,0 +1,1 @@
+export const loyaltyTransactionAddress = '0x62A9DFF0964aD72111ceB97D26B53De5FB7Bbf1b'
